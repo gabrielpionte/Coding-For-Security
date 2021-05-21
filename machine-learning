@@ -1,0 +1,5 @@
+Para o programa funcionar devemos baixar algumas dependências 
+1° Abra o terminal da sua IDE e instale o SKLearn
+Digite: pip install -U scikit-learn
+Após isso é só abrir um código e importar a biblioteca
+Digite: import sklearn
